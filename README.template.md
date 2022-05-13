@@ -5,6 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kerubi5s?style=social)  
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq7toWyiMLII5QqpFi-FiiQ?label=Subscribe&style=social)
 
-# Hello World, I'm John Kim(https://kkwebdev.xyz/) 👋
+# Hello World, I'm John Kim 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
