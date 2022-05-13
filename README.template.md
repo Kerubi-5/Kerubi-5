@@ -7,5 +7,10 @@
 
 # Hello World, I'm John Kim 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
+- 💼 I’m currently working on [Pragtechnologies](https://www.pragtechnologies.com/).
+- 🔗 I’m currently learning more about BlockChain.
+- 👯 I’m looking to collaborate on DApps.
+- 💬 Ask me about Next.js or any tech-related stuff.
+- 📫 How to reach me: [Messenger - user/mr.jkimpot](https://m.me/mr.jkimpot/)
+- 😄 Pronouns: He/His
+- ⚡ Hobbies: I like to collect digital video games on steam.
