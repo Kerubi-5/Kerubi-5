@@ -5,4 +5,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kerubi5s?style=social)  
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq7toWyiMLII5QqpFi-FiiQ?label=Subscribe&style=social)
 
-* ABOUT ME
+# Hello World, I'm John Kim(https://kkwebdev.xyz/) 👋
+
+
