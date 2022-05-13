@@ -7,7 +7,7 @@
 
 # Hello World, I'm John Kim 👋
 
-- 💼 I’m currently working on [Pragtechnologies](https://www.pragtechnologies.com/).
+- 💼 I’m currently working on [Pragtechnologies](https://www.pragtechnologies.com/), as an Intern.
 - 🔗 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on DApps.
 - 💬 Ask me about Next.js or any tech-related stuff.
