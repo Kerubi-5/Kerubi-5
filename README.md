@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/Kerubi"><img src="https://api.daily.dev/devcards/afa457461b8f4416ae96b4a420d162c9.png?r=s1f" width="400" alt="John Kim A. Querobines's Dev Card"/></a>
+
 [![Website - up](https://img.shields.io/static/v1?label=Website&message=up&color=2ea44f&logo=Github)](https://kkwebdev.xyz/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/john-kim-querobines-4507521b8/) 
 
