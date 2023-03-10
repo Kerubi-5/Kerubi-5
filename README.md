@@ -24,3 +24,8 @@
 <code><img height="20" src="https://docs.soliditylang.org/en/v0.8.13/_static/logo.svg"></code>
 
 ### Show some ❤️ by starring some of the repositories!
+
+Hobbies
+**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198436519545/?cc=ph))*
+* **Value:** ₱19184
+* **Games owned:** 363
