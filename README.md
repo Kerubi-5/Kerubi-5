@@ -23,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://docs.soliditylang.org/en/v0.8.13/_static/logo.svg"></code>
 
-** My hobbies outside of coding **
+**My hobbies outside of coding**
 
 **My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198436519545/?cc=ph))*
 * **Value:** ₱19184
