@@ -21,6 +21,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 **My hobbies outside of coding**
 
