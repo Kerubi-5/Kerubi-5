@@ -6,7 +6,7 @@
 
 # Hello World, I'm John Kim 👋
 
-- 💼 I’m currently working as a Mentor at Refocus
+- 💼 I’m currently working as a Frontend Developer
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on DApps.
 - 💬 Ask me about Next.js or any tech-related stuff.
