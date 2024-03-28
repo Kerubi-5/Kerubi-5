@@ -9,9 +9,7 @@
 - 💼 I’m currently working as a Frontend Developer
 - 🌱 I’m currently learning more about BlockChain.
 - 👯 I’m looking to collaborate on DApps.
-- 💬 Ask me about Next.js or any tech-related stuff.
 - 📫 How to reach me: jkim.querobines@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Hobbies: I like to collect digital video games on steam.
 
 **Languages and Tools:**  
