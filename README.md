@@ -9,7 +9,7 @@
 - 💼 I’m currently working as a Frontend Developer
 - 🌱 I’m currently learning more about Python
 - 👯 I’m looking to collaborate on DApps.
-- 📫 How to reach me: jkim.querobines@thekims.dev
+- 📫 How to reach me: johnkim.querobines@thekims.dev
 - ⚡ Hobbies: I like to collect digital video games on steam.
 
 **Languages and Tools:**  
